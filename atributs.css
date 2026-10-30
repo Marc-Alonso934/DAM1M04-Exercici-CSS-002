@@ -62,9 +62,7 @@ p{
 }
 
  #samc> img{
-    max-height:300px;
-    max-width:300px;
-    
+    max-width: 1 1 450px;
 
 }
 
@@ -75,13 +73,9 @@ p{
     align-items:center;
 }
 #mac > img{
-    max-height:300px;
-    max-width:300px;
+    max-width: 1 1 450px;
     
 }
 
-img{
-    height:150px;
-    width:150px;
-}
+
 
