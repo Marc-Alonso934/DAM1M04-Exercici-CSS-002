@@ -9,7 +9,7 @@ body{
     align-items:space-between;
     background-color:rgba(228, 235, 237, 0.334); 
     width:100%;
-    font-size:15px;
+    font: size 5px;
     opacity:1.0;
 
 }
