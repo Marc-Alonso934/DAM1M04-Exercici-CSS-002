@@ -10,6 +10,8 @@ body{
     background-color:rgba(228, 235, 237, 0.334); 
     width:100%;
     opacity:1.0;
+    border-radius: 10px;
+    
 
 }
 
