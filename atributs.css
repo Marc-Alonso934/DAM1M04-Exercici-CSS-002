@@ -7,7 +7,7 @@ body{
     margin:top;
     top:0px;
     position:fixed;
-    justify-content:space-between;
+    align-items:space-between;
     background-color:brown; 
     height:15px;
     width:100%;
@@ -24,7 +24,7 @@ body{
     text-decoration-line:underline;
     height:15px;
     width:100px;
-    opacity:10px;
+    opacity:1.0;
     justify-content:space-between;
     list-style-type: none;
     display:flex;
