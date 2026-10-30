@@ -84,6 +84,9 @@ p{
     max-width: 1 1 40%;
     
 }
+#llenguatges{
+    text-align:center;
+}
 
 #llenguatges li:first-child{
     background-color: rebeccapurple;
