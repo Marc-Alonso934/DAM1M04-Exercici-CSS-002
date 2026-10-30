@@ -59,15 +59,19 @@ p{
 
 }
 
-#id> #samc{
-    height:300px;
-    width:300px;
+ #samc> img{
+    max-height:300px;
+    max-width:300px;
 
 }
 
 #mac{
     align-items:center;
     text-decoration-line: overline ;
+}
+#mac > img{
+    max-height:300px;
+    max-width:300px;
 }
 
 img{
