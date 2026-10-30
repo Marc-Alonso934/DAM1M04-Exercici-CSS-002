@@ -100,3 +100,20 @@ p{
     background-color:brown;
 }
 
+hover{
+    color:blue
+}
+
+visited{
+    color:yellowgreen;
+}
+
+clicked{
+    color:violet;
+}
+
+
+
+unvisited{
+     color: royalblue;
+}
