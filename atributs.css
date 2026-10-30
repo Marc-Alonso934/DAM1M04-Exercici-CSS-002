@@ -9,7 +9,7 @@ body{
     position:fixed;
     justify-content:space-between;
     background-color:brown; 
-    height:20%;
+    height:15px;
     width:100%;
     font-size:15px;
     opacity:1.0;
@@ -22,10 +22,10 @@ body{
     font-size:15px;
     text-decoration-color:white;
     text-decoration-line:underline;
-    height:30px;
+    height:15px;
     width:100px;
     opacity:10px;
-    justify-content:space-around;
+    justify-content:space-between;
     list-style-type: none;
     display:flex;
     flex-direction:row;
