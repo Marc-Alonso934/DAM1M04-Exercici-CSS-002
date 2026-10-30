@@ -89,11 +89,11 @@ p{
     background-color: rebeccapurple;
 }
 
-#llenguatges li:nth-child(2){
+#llenguatges li:nth-child(3){
     background-color:bisque;
 }
 
-#llenguatges li:last-child{
+#llenguatges li:nth-child(5){
     background-color:brown;
 }
 
