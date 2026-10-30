@@ -108,7 +108,7 @@ p{
     color:yellowgreen;
 }
 
-.link:clicked{
+.link::selection{
     color:violet;
 }
 
