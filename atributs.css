@@ -85,5 +85,14 @@ p{
     
 }
 
+#llenguatges li:first-child{
+    background-color: rebeccapurple;
+}
 
+#llenguatges li:last-child{
+    background-color:brown;
+}
 
+#llenguatges li:nth-child(2){
+    background-color:bisque;
+}
