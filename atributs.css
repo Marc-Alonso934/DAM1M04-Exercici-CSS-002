@@ -59,6 +59,12 @@ p{
 
 }
 
+#id> #samc{
+    height:300px;
+    width:300px;
+
+}
+
 #mac{
     align-items:center;
     text-decoration-line: overline ;
