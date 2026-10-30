@@ -100,20 +100,20 @@ p{
     background-color:brown;
 }
 
-link hover{
+.link:hover{
     color:rgb(122, 106, 0);
 }
 
-link visited{
+.link:visited{
     color:yellowgreen;
 }
 
-link clicked{
+.link:clicked{
     color:violet;
 }
 
 
 
-link unvisited{
+.link {
      color: royalblue;
 }
