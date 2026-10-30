@@ -53,6 +53,14 @@ p{
     text-align:center;
 }
 
+.curs{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    text-align: center;
+    text-decoration: yellow;
+}
+
 #samc{
     display:flex;
     flex-direction:column;
