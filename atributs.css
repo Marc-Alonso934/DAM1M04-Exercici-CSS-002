@@ -56,24 +56,26 @@ p{
 #samc{
     text-align: center;
     text-decoration-line: overline;
+    align-items:center;
 
 }
 
  #samc> img{
     max-height:300px;
     max-width:300px;
-    align-content: center;
+    
 
 }
 
 #mac{
     text-align:center;
-    text-decoration-line: overline ;
+    text-decoration-line: overline;
+    align-items:center;
 }
 #mac > img{
     max-height:300px;
     max-width:300px;
-    align-content: center;
+    
 }
 
 img{
