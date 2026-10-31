@@ -28,6 +28,13 @@ body{
 .marge{
     margin-top:65px;
 }
+.nom{
+    margin-top:65px;
+    background-color: greenyellow;
+    text-decoration-line: dotted;
+    border:dashed 10px violet;
+    padding:30px;
+}
 
 li{
     font-family:Arial, Helvetica, sans-serif;
