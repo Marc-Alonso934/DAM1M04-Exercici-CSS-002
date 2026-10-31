@@ -169,6 +169,10 @@ img{
     background-color:lawngreen;
 }
 
+.captures{
+    margin:auto;
+}
+
 .link:hover{
     color:rgb(122, 106, 0);
 }
