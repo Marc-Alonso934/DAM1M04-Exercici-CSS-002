@@ -169,8 +169,14 @@ img{
     background-color:lawngreen;
 }
 
-.captures{
+.primera{
+    margin-left: auto;
+}
+.segona{
     margin:auto;
+}
+.tercera{
+    margin-right: auto;
 }
 
 .link:hover{
