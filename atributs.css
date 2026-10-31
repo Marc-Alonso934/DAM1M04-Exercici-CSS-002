@@ -89,6 +89,11 @@ p{
     max-width: 50%;
     
 }
+
+#retrat > img{
+    max-width:50%;
+    align-items:center;
+}
 #llenguatges{
     text-align:center;
 }
