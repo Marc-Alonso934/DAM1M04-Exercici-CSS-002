@@ -112,11 +112,10 @@ p{
 }
 
 #retrat > img{
-    max-width:50%;
+    max-width:75%;
+    align-items: center;
 }
-.centrar{
-    margin:auto;
-}
+
 
 img{
     max-width:200px;
