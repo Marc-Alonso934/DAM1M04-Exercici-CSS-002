@@ -151,8 +151,23 @@ img{
 #objectius li{
     background-color:rgb(185, 128, 42)
 }
+#pagines{
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
+#pagines li{
+    background-color: goldenrod;
+}
 
+#pasos{
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#pasos li{
+    background-color:lawngreen;
+}
 
 .link:hover{
     color:rgb(122, 106, 0);
