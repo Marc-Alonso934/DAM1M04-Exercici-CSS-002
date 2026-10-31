@@ -30,7 +30,7 @@ body{
     margin-top:65px;
 }
 .nom{
-    margin-top:125px;
+    margin-bottom:125px;
     background-color: greenyellow;
     text-decoration-line: dotted;
     border:dashed 10px violet;
