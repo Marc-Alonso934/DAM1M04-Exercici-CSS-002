@@ -23,6 +23,7 @@ body{
     list-style-type: none;
     display:flex;
     flex-direction:row;
+    margin:auto;
 }
 
 .marge{
@@ -34,8 +35,9 @@ body{
     text-decoration-line: dotted;
     border:dashed 10px violet;
     padding:30px;
-    width:80px;
-    align-items:center;
+    width:120px;
+    margin:auto;
+
 }
 
 li{
