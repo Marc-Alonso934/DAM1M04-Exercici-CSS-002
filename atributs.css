@@ -109,17 +109,15 @@ p{
 
 }
 
-#retrat > img{
-    max-width:75%;
-    align-items: center;
-    margin:75%;
+div{
+    display:flex;
+    justify-content:center;
 }
 
 
 img{
     max-width:200px;
     max-height:200px;
-    margin:auto;
 }
 
 #llenguatges{
