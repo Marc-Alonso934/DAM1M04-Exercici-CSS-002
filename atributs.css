@@ -116,6 +116,12 @@ p{
     justify-content: center;
 }
 
+img{
+    max-width:200px;
+    max-height:200px;
+    margin:auto;
+}
+
 #llenguatges{
     text-align:center;
 }
