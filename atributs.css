@@ -113,6 +113,8 @@ p{
 
 #retrat > img{
     max-width:50%;
+}
+.centrar{
     margin:auto;
 }
 
