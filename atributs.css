@@ -34,8 +34,8 @@ body{
     text-decoration-line: dotted;
     border:dashed 10px violet;
     padding:30px;
-    width:45px;
-    justify-content:center;
+    width:80px;
+    align-items:center;
 }
 
 li{
