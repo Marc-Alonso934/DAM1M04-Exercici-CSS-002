@@ -24,6 +24,7 @@ body{
     display:flex;
     flex-direction:row;
     margin:auto;
+    align-content: space-between;
 }
 
 
