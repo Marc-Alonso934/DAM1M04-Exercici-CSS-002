@@ -110,8 +110,10 @@ p{
 }
 
 #retrat > img{
+    display:flex;
+    flex-direction:column;
     max-width:75%;
-    justify-items: center;
+    align-items: center;
 }
 
 
