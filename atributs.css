@@ -26,6 +26,7 @@ body{
     margin:auto;
 }
 
+
 .marge{
     margin-top:65px;
 }
@@ -37,7 +38,7 @@ body{
     padding:30px;
     width:120px;
     margin:auto;
-
+    gap:50px;
 }
 
 li{
