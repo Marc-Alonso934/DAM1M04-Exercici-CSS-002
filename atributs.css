@@ -103,8 +103,7 @@ p{
 }
 
 #retrat{
-    display: flex;
-    align-items:center;
+    text-align:center;
     text-decoration-line:underline;
     text-decoration-color: rgb(156, 9, 31);
 
