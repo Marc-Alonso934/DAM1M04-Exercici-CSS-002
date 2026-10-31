@@ -65,7 +65,6 @@ p{
 #samc{
     display:flex;
     flex-direction:column;
-    text-decoration-line: overline, red;
     align-items:center;
 
 }
@@ -82,7 +81,6 @@ p{
 #mac{
     display:flex;
     flex-direction:column;
-    text-decoration-line: overline, red;
     align-items:center;
 }
 #mac > img{
@@ -90,10 +88,20 @@ p{
     
 }
 
+#retrat{
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+    text-decoration-line:underline;
+    text-decoration-color: rgb(056, 11, 01);
+
+}
+
 #retrat > img{
     max-width:50%;
-    align-items:center;
+    justify-content: center;
 }
+
 #llenguatges{
     text-align:center;
 }
