@@ -122,13 +122,17 @@ p{
     text-align:center;
 }
 
-#habilitats ul{
+#habilitats li{
     background-color:aliceblue;
 }
 
-#habilitats ol{
+#objectius{
+    text-align:center;
+}
+#objectius li{
     background-color:rgb(185, 128, 42)
 }
+
 
 
 .link:hover{
