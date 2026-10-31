@@ -170,17 +170,17 @@ img{
 }
 
 .primera{
-    max-width:480px;
+    max-width:500px;
     max-height: 600px;
     align-items: start;
 }
 .segona{
-      max-width:480px;
+      max-width:500px;
       max-height: 480px;
       align-items:center;
 }
 .tercera{
-      max-width:480px;
+      max-width:500px;
       max-height: 480px;
       align-items:end;
 }
