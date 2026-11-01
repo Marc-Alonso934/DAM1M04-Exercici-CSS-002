@@ -170,15 +170,15 @@ img{
 }
 
 .primera{
-    width:50%;
+    width:30%;
     align-items: start;
 }
 .segona{
-      width:50%;
+      width:30%;
       align-items:center;
 }
 .tercera{
-      width:50%;
+      width:30%;
       align-items:end;
 }
 
