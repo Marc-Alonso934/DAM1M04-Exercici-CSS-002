@@ -207,3 +207,7 @@ img{
 ::first-line{
     text-decoration-line: underline;
 }
+
+.font{
+    font-family: Arial, Helvetica, sans-serif;
+}
