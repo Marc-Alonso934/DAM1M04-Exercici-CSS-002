@@ -200,3 +200,10 @@ img{
 .link {
      color: royalblue;
 }
+
+::first-letter{
+    color:red;
+}
+::first-line{
+    text-decoration-line: underline;
+}
